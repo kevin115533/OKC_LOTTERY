@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "en3Maqblb5PemPFE7CUmG7vuGIS34+iEqg4FocHk8xv6aRj3tI1wj7uf5fmULNSOh9LEORQSR9lnNR9Fqzzusw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\source\\repos\\OKC_LOTTERY\\OKC_LOTTERY\\OKC_LOTTERY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\bin\Debug\netcoreapp3.1\OKC_LOTTERY.exe
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\bin\Debug\netcoreapp3.1\OKC_LOTTERY.deps.json
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\bin\Debug\netcoreapp3.1\OKC_LOTTERY.runtimeconfig.json
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\bin\Debug\netcoreapp3.1\OKC_LOTTERY.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\bin\Debug\netcoreapp3.1\OKC_LOTTERY.dll
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\bin\Debug\netcoreapp3.1\OKC_LOTTERY.pdb
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\obj\Debug\netcoreapp3.1\OKC_LOTTERY.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\obj\Debug\netcoreapp3.1\OKC_LOTTERY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\obj\Debug\netcoreapp3.1\OKC_LOTTERY.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\obj\Debug\netcoreapp3.1\OKC_LOTTERY.AssemblyInfo.cs
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\obj\Debug\netcoreapp3.1\OKC_LOTTERY.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\obj\Debug\netcoreapp3.1\OKC_LOTTERY.dll
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\obj\Debug\netcoreapp3.1\OKC_LOTTERY.pdb
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\obj\Debug\netcoreapp3.1\OKC_LOTTERY.genruntimeconfig.cache
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kevin\source\repos\OKC_LOTTERY\OKC_LOTTERY\obj\Debug\netcoreapp3.1\OKC_LOTTERY.csproj.CopyComplete
